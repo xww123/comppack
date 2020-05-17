@@ -1,0 +1,14 @@
+{
+    "name": "xww123/comppack",
+    "description": "a test composer project",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "xieweiwen",
+            "email": "unix_pro@126.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
